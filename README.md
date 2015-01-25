@@ -1,2 +1,2 @@
-# Data_Science
+# DataScienceCoursera
 For Data Science Class
